@@ -14,21 +14,21 @@ Bienvenue dans le **Spoofer & Cleaner Pack** ! Ce pack est conçu pour vous aide
 Pour utiliser ce pack, suivez les étapes ci-dessous :
 
 1. **Cloner le dépôt** :
-   ...bash
+   ```bash
    git clone https://github.com/swormm/spoofer.cleaner.PACK.git
-   ...bash
+   ```
 
 2. **Accéder au répertoire du projet** :
-   ...bash
+   ```bash
    cd spoofer.cleaner.PACK
-   ...bash
+   ```
 
 3. **Installation des dépendances** (si applicable) :
    - Assurez-vous que toutes les dépendances nécessaires sont installées. Consultez le fichier `requirements.txt` pour la liste des dépendances.
 
-   ...bash
+   ```bash
    pip install -r requirements.txt
-   ...bash
+   ```
 
 ## Utilisation
 
@@ -63,19 +63,19 @@ Si vous souhaitez contribuer à ce projet, veuillez suivre les étapes ci-dessou
 1. **Forker le dépôt**.
 2. **Star le dépot**.
 3. **Créer une branche** pour votre fonctionnalité ou correction de bug :
-   ...bash
+   ```bash
    git checkout -b feature/nom-de-la-fonctionnalité
-   ...bash
+   ```
 
 4. **Commit vos modifications** :
-   ...bash
+   ```bash
    git commit -am 'Ajout de la fonctionnalité X'
-   ...bash
+   ```
 
 5. **Pousser votre branche** :
-   ...bash
+   ```bash
    git push origin feature/nom-de-la-fonctionnalité
-   ...bash
+   ```
 
 6. **Créer une Pull Request** sur GitHub.
 
